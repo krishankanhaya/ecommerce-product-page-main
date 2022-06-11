@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid red;
+    align-items: center;
+}
+.navbar ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+#profile{
+    width: 2.5rem;
+}
